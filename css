@@ -1,0 +1,218 @@
+*{background-color: #90bd35}
+#dark-blue {
+  padding: 20px; 
+  border: 2px solid black;
+  background-color:rgb(32 21 80);
+  
+}
+.bottom{
+  background-color:darkblue 
+}
+body {
+  font-family: Serif;
+  background color: #A52A2A;
+}
+#main-container {
+  display:flex;
+  flex-direction:column;
+   justify-content: space-around;
+  align-items:center;
+  height:1700px;
+  background-color:hsl(352.235deg 86.44% 23.14%);
+  padding:10px;
+}
+  
+main: {
+  padding: 20px;
+}
+section {
+  background color: Yellow;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radious: 5px;
+}
+h2 {
+  color: midnightblue;
+  font-size: 24px;
+}
+p {
+  font-size: 16px;
+}
+
+ol {
+  margin-left: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+footer {
+  background-color: #380000;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+
+  
+ #header {
+  color: black;
+  width: 900px;
+  padding: 30px;
+  margin: 50px;
+}
+footer{
+  color: black;
+  width: 900px;
+  padding: 20px;
+  border: 4px solid black;
+  margin: 50px;
+}
+body{
+  font-size: 16px;
+  font-family: sans-serif;
+  background: orange;
+  text-align: center
+}
+#main-container {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+body text{
+  font-family:"South Korea"serif;
+}
+header{
+font-family: Sans-seri
+}
+  .Top
+{
+  background-color:OrangeRed
+}
+.Bottom {
+  background-color:DarkOrange
+}
+#LabAssign {
+  font-size: 50px;
+  display: flex;  
+  Width: 1800px;
+    height: 500px;        
+    background-color: Yellow; 
+    color: black;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center;  
+    border-radius: 10px;  
+  margin-left:50px; 
+  margin-right:50px; 
+}
+#Intro {
+  margin-left:100px; 
+  margin-right:100px; 
+   display: flex;        
+   Width: 1600px;
+    background-color: Black; 
+    color: White;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center; 
+    border: 3px solid black; 
+    border-radius: 10px;
+  box-sizing: border-box; 
+ 
+}
+#ParaIntro {
+  display: flex;               
+    background-color: Black; 
+    color: White;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center; 
+   margin-left:100px; 
+  margin-right:100px;      
+    height: 100px;
+   Width: 1600px;
+  border-radius: 10px;
+  }
+#haiku {
+  display: flex;               
+    background-color: White; 
+    color: black;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center; 
+    border: 3px solid white; 
+    border-radius: 10px;
+  font-size: 40px;
+   margin-left:50px; 
+  margin-right:50px; 
+  
+}
+#Haikuu {
+  font-size: 40px;
+  display: flex;               
+    background-color: White; 
+    color: black;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center; 
+    border: 3px solid white; 
+    border-radius: 10px;  
+   margin-left:50px; 
+  margin-right:50px; 
+}
+#Bio {
+  display: flex; 
+  font-size: 40px;
+    height: 100px;        
+    background-color: #fba0e3; 
+    color: black;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center; 
+   border-radius: 10px;  
+   margin-left:50px; 
+  margin-right:50px; 
+}
+#gray {
+  display: flex;  
+  Width: 1600px;
+    height: 50px;        
+    background-color: Gray; 
+    color: black;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center;  
+    border-radius: 10px;  
+  margin-left:100px; 
+  margin-right:100px; 
+  
+}
+#pink { 
+  display: flex;  
+  font-size: 40px;       
+    background-color: #fba0e3; 
+    color: black;
+   text-align: center;   
+    display: flex;        
+    align-items: center;  
+    justify-content: center; 
+   border-radius: 10px;  
+   margin-left:50px; 
+  margin-right:50px; 
+}
+/* hover affect */
+.btn: hover {
+  background-color: #45a049; /* darker blue */
+  trasnform: scale(1.06); /* slightly grow the button */
+}
